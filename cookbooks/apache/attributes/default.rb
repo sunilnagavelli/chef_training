@@ -1,0 +1,1 @@
+default['apache']['pkg']='apache2'
